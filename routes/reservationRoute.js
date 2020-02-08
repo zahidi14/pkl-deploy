@@ -14,7 +14,7 @@ const Reservation = require("../models/reservation").model;
 // 	"email": String
 // }
 
-router.get("/", function(req, res)  {
+router.get("http://localhost:8080/", function(req, res)  {
   Day.find({})
   .then((result) =>{
     res.json(result);

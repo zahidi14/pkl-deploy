@@ -1,0 +1,60 @@
+{
+  "mobils": [
+    {
+      "name": "Avanza",
+      "capacity": 7,
+     
+      "tipe": "MPV",
+      "harga" : "450.000",
+      "isAvailable": true
+    },
+    {
+      "name": "Xenia",
+      "capacity": 7,
+      
+      "tipe": "MPV",
+      "harga" : "450.000",
+      "isAvailable": true
+    },
+    {
+      "name": "Grand New Innova",
+      "capacity": 7,
+     
+      "tipe": "MPV",
+      "harga" : "650.000",
+      "isAvailable": true
+    },
+    {
+      "name": "Grand New Innova Reborn",
+      "capacity": 7,
+     
+      "tipe": "MPV",
+      "harga" : "750.000",
+      "isAvailable": true
+    },
+    {
+      "name": "Elf short",
+      "capacity": 15,
+     
+      "tipe": "Minibus",
+      "harga" : "1.000.000",
+      "isAvailable": true
+    },
+    {
+      "name": "Elf Long",
+      "capacity": 20,
+      
+      "tipe": "Minibus",
+      "harga" : "1.000.000",
+      "isAvailable": true
+    },
+    {
+      "name": "Hi Ace",
+      "capacity": 20,
+      
+      "tipe": "Minibus",
+      "harga" : "1.300.000",
+      "isAvailable": true
+    }
+  ]
+}

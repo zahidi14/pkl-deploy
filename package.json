@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "pkl nahwa",
-  "main": "app.js",
+  "main": "./bin/WWW",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./bin/www",

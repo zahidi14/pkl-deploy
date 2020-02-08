@@ -83,7 +83,7 @@ export default props => {
     if (selection.time && selection.date) {
       (async _ => {
         let datetime = getDate();
-        let res = await fetch("http://localhost:8080/availability", {
+        let res = await fetch("/availability", {
           method: "POST",
           headers: {
             "Content-Type": "application/json"
@@ -118,7 +118,7 @@ export default props => {
       setReservationError(true);
     } else {
       const datetime = getDate();
-      let res = await fetch("http://localhost:8080/reserve", {
+      let res = await fetch("/reserve", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"

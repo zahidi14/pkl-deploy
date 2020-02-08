@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "description": "pkl nahwa",
-  "main": "./bin/www",
+  "main": "./bin/www.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./bin/www",
-    "dev": "nodemon ./bin/www",
+    "start": "node ./bin/www.js",
+    "dev": "nodemon ./bin/www.js",
     "create-data": "node data/generateFakeData.js"
   },
   "author": "Zahidi",

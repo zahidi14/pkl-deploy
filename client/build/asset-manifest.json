@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1e68ded.chunk.css",
+    "main.js": "/static/js/main.e3f5c587.chunk.js",
+    "main.js.map": "/static/js/main.e3f5c587.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.14e7ef34.chunk.js": "/static/js/2.14e7ef34.chunk.js",
+    "static/js/2.14e7ef34.chunk.js.map": "/static/js/2.14e7ef34.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3b3fb3f4cea4381838af256620c2c1c4.js": "/precache-manifest.3b3fb3f4cea4381838af256620c2c1c4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.e1e68ded.chunk.css.map": "/static/css/main.e1e68ded.chunk.css.map",
+    "static/js/2.14e7ef34.chunk.js.LICENSE.txt": "/static/js/2.14e7ef34.chunk.js.LICENSE.txt",
+    "static/media/avanza.png": "/static/media/avanza.805d3904.png",
+    "static/media/elf-long.jpg": "/static/media/elf-long.c4f4b445.jpg",
+    "static/media/elf-short.jpg": "/static/media/elf-short.b78f4338.jpg",
+    "static/media/ho-ace.jpg": "/static/media/ho-ace.9b3d0cee.jpg",
+    "static/media/innova-reborn.png": "/static/media/innova-reborn.98fd7a70.png",
+    "static/media/innova.png": "/static/media/innova.a9145a0e.png",
+    "static/media/xenia.png": "/static/media/xenia.2013f01a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea588d5.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.14e7ef34.chunk.js",
+    "static/css/main.e1e68ded.chunk.css",
+    "static/js/main.e3f5c587.chunk.js"
+  ]
+}

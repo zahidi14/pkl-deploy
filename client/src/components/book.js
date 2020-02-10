@@ -38,8 +38,8 @@ export default props => {
   // List of potential tipes
   const [tipes] = useState(["Semua Tipe", "MPV", "Minibus"]);
   const [times] = useState([
-    "12",
-    "24",
+    "12JAM",
+    "24JAM",
     
   ]);
   // Basic reservation "validation"
@@ -66,7 +66,7 @@ export default props => {
       selection.date.getDate() +
       " " +
       selection.date.getFullYear();
-    let time = selection.time.slice(0, -2);
+    let time = selection.time.slice(0, -3);
     time = selection.time > 12 ? time + 12 + ":00" : time + ":00";
     console.log(time);
     const datetime = new Date(date + " " + time);
@@ -329,7 +329,7 @@ export default props => {
                   {selection.time === null ? "Pilih Lama Sewa" : selection.time}
                 </DropdownToggle>
                 <DropdownMenu right className="booking-dropdown-menu">
-                  {getTimes()} <p>Jam</p>
+                  {getTimes()} 
                 </DropdownMenu>
               </UncontrolledDropdown>
             </Col>
